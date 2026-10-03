@@ -55,14 +55,20 @@ On an Android emulator, set a location in **Extended Controls → Location** bef
 
 ## Screenshots
 
-| Google Map | Current location |
+| Google Map + favorite markers | Favorite locations list |
 |---|---|
-| ![Google Map](docs/screenshots/1_google_map.png) | ![Current location](docs/screenshots/2_current_location.png) |
+| ![Google Map with favorite markers](docs/screenshots/1_google_map_favorite_markers.jpg) | ![Favorite locations list](docs/screenshots/2_favorite_list.jpg) |
 
-| Favorite markers | Favorite location details |
+| Current location | Favorite location details (marker tap) |
 |---|---|
-| ![Favorite markers](docs/screenshots/3_favorite_markers.png) | ![Details](docs/screenshots/4_favorite_details.png) |
+| ![Current location](docs/screenshots/8_current_location.jpg) | ![Favorite location details](docs/screenshots/9_favorite_details.jpg) |
 
-| Favorite locations list |
-|---|
-| ![Favorite list](docs/screenshots/5_favorite_list.png) |
+### Moving to a favorite from the list (current lat/lng card shown at top)
+
+| Khulna University | Khulna Railway Station | Shibbari More |
+|---|---|---|
+| ![](docs/screenshots/3_khulna_university.jpg) | ![](docs/screenshots/4_khulna_railway_station.jpg) | ![](docs/screenshots/5_shibbari_more.jpg) |
+
+| Divisional Public Library | Khan Jahan Ali Bridge |
+|---|---|
+| ![](docs/screenshots/6_divisional_public_library.jpg) | ![](docs/screenshots/7_rupsha_bridge.jpg) |
