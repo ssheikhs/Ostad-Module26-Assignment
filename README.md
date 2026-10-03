@@ -59,10 +59,6 @@ On an Android emulator, set a location in **Extended Controls → Location** bef
 |---|---|
 | ![Google Map with favorite markers](docs/screenshots/1_google_map_favorite_markers.jpg) | ![Favorite locations list](docs/screenshots/2_favorite_list.jpg) |
 
-| Current location | Favorite location details (marker tap) |
-|---|---|
-| ![Current location](docs/screenshots/8_current_location.jpg) | ![Favorite location details](docs/screenshots/9_favorite_details.jpg) |
-
 ### Moving to a favorite from the list (current lat/lng card shown at top)
 
 | Khulna University | Khulna Railway Station | Shibbari More |
